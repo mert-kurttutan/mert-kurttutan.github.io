@@ -26,7 +26,8 @@ export default defineConfig({
             { text: 'Blog', link: '/blog', collapsed: false,
               items: [
                 { text: 'Nested 1', link: '/blog/nested-1' },
-                { text: 'Nested 2', link: '/blog/nested-2' }
+                { text: 'Nested 2', link: '/blog/nested-2' },
+                { text: 'a-case-for-nushell', link: '/blog/a-case-for-nushell' },
               ]
             },
             { text: 'Projects', link: '/projects', 
