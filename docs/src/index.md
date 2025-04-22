@@ -8,21 +8,13 @@ hero:
   tagline: My great project tagline
   actions:
     - theme: alt
-      text: API Examples
-      link: /api-examples
-    - theme: brand
-      text: Blog
-      link: /blog
-    - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Notes
+      link: /notes
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Blog
+    details: Fefined, simple opinions about foundational and modern software, rust, python, and Machine Learning
+  - title: Notes
+    details: Notes about the some topics I have been working on
 ---
 
